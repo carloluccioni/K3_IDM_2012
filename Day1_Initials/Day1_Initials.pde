@@ -15,8 +15,8 @@ void draw () {
                   
                   //check if the oject left the screen
                   if (x > width) {
-                    //if is out of the screen, make it show up one the left
-                    // side by makeing the coordinate smaller than the objects width
+              //if is out of the screen, make it show up one the left
+              // side by makeing the coordinate smaller than the objects width
                   x = -200; }
                   
                   //move the whole thing to the right
